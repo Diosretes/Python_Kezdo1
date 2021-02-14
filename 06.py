@@ -6,3 +6,4 @@ szam = 10
 print("szam")
 
 tttt
+tttt

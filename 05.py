@@ -12,3 +12,4 @@ print(szam // szam2)
 print(szam ** szam2)
 print(szam % szam2)
 print(szam2 % szam)
+ttt
