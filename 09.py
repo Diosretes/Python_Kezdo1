@@ -1,1 +1,3 @@
-ttttt
+#ttttt
+#tttt
+print("na megy?")
