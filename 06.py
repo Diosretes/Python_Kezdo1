@@ -1,9 +1,17 @@
-# hozzárendeleő operátorok
+# hozzárendeleő operátorok += -= /= //= %= **=
 
 szam = 10
+print(szam)
 
+szam += 10
 
-print("szam")
+print(szam)
 
-tttt
-tttt
+szam -= 1
+
+print(szam)
+
+szam *= 40
+
+print(szam)
+
