@@ -6,4 +6,4 @@ szam2 = 4
 
 print(szam < szam2 and szam == 2)
 
-print(szam < szam2 or szam == 3)
+print(szam < szam2 and not szam == 3)
